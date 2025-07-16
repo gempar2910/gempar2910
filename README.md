@@ -34,4 +34,3 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/gempar2910/gempar2910/output/snake.svg" alt="Snake animation" />
 
 ###
-
