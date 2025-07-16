@@ -27,6 +27,10 @@ Here are some ideas to get you started:
 
 ![http://instagram.com/gemparcr](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
+<h2 align="left">Play game with me</h2>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gempar2910/gempar2910/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gempar2910/gempar2910/output/pacman-contribution-graph.svg">
