@@ -26,3 +26,11 @@ Here are some ideas to get you started:
 #### Connect With me
 
 ![http://instagram.com/gemparcr](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gempar2910/gempar2910/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gempar2910/gempar2910/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gempar2910/gempar2910/output/pacman-contribution-graph.svg">
+</picture>
+
+###
