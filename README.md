@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 
 ##### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel)](https://skillicons.dev)
+
 #### Connect With me
 
 ![http://instagram.com/gemparcr](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
